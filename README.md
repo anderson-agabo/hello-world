@@ -1,1 +1,1 @@
-# hello-world
+# Este repositório é desdinado a comportar os primeiros codigos ensinados no Curso
